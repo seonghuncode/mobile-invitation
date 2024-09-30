@@ -96,17 +96,17 @@ const images = [   /* 이미지 경로를 리스트로 저장 */
     height: 960
   },{
     alt: 'image13',
-    source: image10,
+    source: image13,
     width: 640,
     height: 960
   },{
     alt: 'image14',
-    source: image11,
+    source: image14,
     width: 640,
     height: 960
   },{
     alt: 'image15',
-    source: image12,
+    source: image15,
     width: 640,
     height: 960
   }

@@ -24,17 +24,12 @@ const HostInfo = ({ person }: { person: BrideAndGroom }) => {
         <>
           {person.parents.map((parent, index) => (
             <React.Fragment key={index}>
-              {/*{index > 0 && ' · '}*/}
-              {/*{parent.name}*/}
             </React.Fragment>
           ))}
         </>
       )}
       <RelationText>
-        {/*<div>의</div>*/}
-        {/*<Relation>{person.relation}</Relation>*/}
       </RelationText>
-      {/*<HighlightedName>{person.name}</HighlightedName>*/}
     </HostDetails>
   );
 };
