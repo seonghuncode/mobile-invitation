@@ -2,44 +2,38 @@
 {
   "greeting": {
     "title": "\ud83d\udccc삼척 여행",
-    "message": "10월02일(수)\n\n \uD83D\uDCCD 시간 ~ 시간 : 활동1\n \uD83D\uDC49\uD83C\uDFFB 위치 : \n  \uD83D\uDCCD 시간 ~ 시간 : 활동2 \n \uD83D\uDC49\uD83C\uDFFB 위치 : \n \uD83D\uDCCD 시간 ~ 시간 : 활동3 \n \uD83D\uDC49\uD83C\uDFFB 위치 : \n",
-
-
-
-
-
-
+    "message": "[ 10월02일(수) ]\n \uD83D\uDCCD 07:00 ~ 10:30 : 과천 -> 대금굴\n \uD83D\uDCCD 11:00 ~ 12:30 대금굴 관람(예약) \n \uD83D\uDC49\uD83C\uDFFB 주소 : 대이리 189 \n  \uD83D\uDC49\uD83C\uDFFB https://naver.me/xCBWp9hT \n  \uD83D\uDCCD 12:00 ~ 12:30 : 점심 \n \uD83D\uDC49\uD83C\uDFFB 주소 : 대이리 203 \n \uD83D\uDC49\uD83C\uDFFB https://map.naver.com/p/entry/place/12067716?c=15.00,0,0,0,dh \n \uD83D\uDCCD 13:00 ~ 14:00 : 대금굴 -> 삼척 레일바이크 \n \uD83D\uDCCD 14:30 ~ 16:00 : 삼척 레일바이크(용화 -> 궁촌 / 예약) \n \uD83D\uDC49\uD83C\uDFFB 주소 : 용화리 14-5 \n \uD83D\uDC49\uD83C\uDFFB https://naver.me/G0DyLTiu \n \uD83D\uDCCD 16:00 ~ 16:15 : 레일바이크 -> 수로부인 헌화공원 \n \uD83D\uDCCD 16:20 ~ 17:00 : 수로부인 헌화공원 (정상 까지 20분 소요) \n \uD83D\uDC49\uD83C\uDFFB 주소 : 임원리 124-24 \n \uD83D\uDC49\uD83C\uDFFB https://naver.me/GgWzlaSc \n \uD83D\uDCCD 17:00 ~ 17:30 : 마트 (하나로마트 원덕농협임원점) \n \uD83D\uDC49\uD83C\uDFFB 주소 : 임원리 342-8 원덕농협 \n \uD83D\uDC49\uD83C\uDFFB https://naver.me/xl0IP5Oa \n \uD83D\uDCCD 17:30 ~ 18:00 : 숙소이동(향초목원)\n   \uD83D\uDC49\uD83C\uDFFB 주소 : 가곡면 탕곡리 562-1 \n \uD83D\uDC49\uD83C\uDFFB https://naver.me/IIt5yBMo \n\n [ 10월03일(목) ] \n \uD83D\uDCCD 09:00 ~ 09:15 : 숙소-> 가곡유황온천\n \uD83D\uDCCD 09:15 ~ 11:30 : 가곡유황온천 \n \uD83D\uDC49\uD83C\uDFFB 주소 : 강원 삼척시 가곡면 탕곡리 509-3 \n  \uD83D\uDC49\uD83C\uDFFB https://naver.me/GyYgdUmh \n  \uD83D\uDCCD 12:00 ~ 13:30  : 점심 \n \uD83D\uDCCD 13:30 : 과천 출발\n",
     "host": {
       "groom": {
-        "name": "세모",
-        "relation": "아들",
+        "name": "",
+        "relation": "",
         "parents": [
           {
-            "relation": "아버지",
-            "name": "장아빠"
+            "relation": "",
+            "name": ""
           },
           {
-            "relation": "어머니",
-            "name": "이엄마"
+            "relation": "",
+            "name": ""
           }
         ]
       },
       "bride": {
-        "name": "네모",
-        "relation": "딸",
+        "name": "",
+        "relation": "",
         "parents": [
           {
-            "relation": "아버지",
-            "name": "황아빠"
+            "relation": "",
+            "name": ""
           },
           {
-            "relation": "어머니",
-            "name": "이엄마"
+            "relation": "",
+            "name": ""
           }
         ]
       }
     },
-    "eventDetail": "2024년 10월 02일 (수) \n"
+    "eventDetail": ""
   },
   "hostInfo": [
     {
@@ -94,7 +88,7 @@
     }
   ],
   "mapInfo": {
-    "address1": "숙소 : 향초목원",
+    "address1": "향초목원",
     "address2": "도로명 : 강원 삼척시 탕곡길 473-174\n지번 : 가곡면 탕곡리 562-1 92\n 010-9624-0089",
     "naverMap": "https://naver.me/GdyelrGF",
     "kakaoMap": "https://kko.to/knn12d56Ss",
@@ -103,12 +97,12 @@
   },
   "locationInfo": [
     {
-      "title": "\uD83D\uDCCD 지하철",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 5·6호선 공덕역 7번 출구 (도보 2분)\n\uD83D\uDC49\uD83C\uDFFB 경의·중앙선, 공항철도 공덕역 10번 출구 (도보 30초)"
+      "title": "",
+      "desc": ""
     },
     {
-      "title": "\uD83D\uDCCD 주차안내",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 건물 내 3-5층 2시간 무료주차\n(안내데스크에서 주차권 수령)"
+      "title": "",
+      "desc": ""
     }
   ],
   "emojis": [

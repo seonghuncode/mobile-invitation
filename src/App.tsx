@@ -11,6 +11,9 @@ import Invitation from '@/layout/Invitation/Invitation.tsx';
 import Location from '@/layout/Location/Location.tsx';
 import Main from '@/layout/Main/Main.tsx';
 
+
+
+
 function App() {
   const ncpClientId = import.meta.env.VITE_APP_NAVERMAPS_CLIENT_ID;
   const [isVisible, setIsVisible] = useState(false);
@@ -50,16 +53,16 @@ function App() {
           <Heading1>Gallery</Heading1>
           <GalleryWrap />
         </Wrapper>
+        {/*<Wrapper>*/}
+        {/*  <Heading1>마음 전하실 곳</Heading1>*/}
+        {/*  <Account />*/}
+        {/*</Wrapper>*/}
         <Wrapper>
-          <Heading1>마음 전하실 곳</Heading1>
-          <Account />
-        </Wrapper>
-        <Wrapper>
-          <Heading1>오시는 길</Heading1>
+          <Heading1>숙소</Heading1>
           <Location />
         </Wrapper>
         <Wrapper>
-          <Heading1>신랑 신부에게</Heading1>
+          <Heading1>문의 사항</Heading1>
           <Guestbook />
         </Wrapper>
         <FloatingBar isVisible={isVisible} />
