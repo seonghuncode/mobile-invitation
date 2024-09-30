@@ -1,11 +1,10 @@
 import styled from '@emotion/styled';
 import data from 'data.json';
 import Host from '../Contact/Host.tsx';
-import RoundButton from '@/components/RoundButton.tsx';
 import { Caption, Paragraph } from '@/components/Text.tsx';
 
 // URL을 HTML 링크로 변환하는 함수 (data.json에서 주소 형식이 있을 경우 a태그로 변환하는 함수)
-function convertToLinks(text, displayText = '상세정보') {
+function convertToLinks(text: string, displayText: string = '상세정보'): string {
     const urlRegex = /(https?:\/\/[^\s]+)/g;
     return text.replace(urlRegex, function(url) {
         return `<a href="${url}" target="_blank" rel="noopener noreferrer">${displayText}</a>`;
